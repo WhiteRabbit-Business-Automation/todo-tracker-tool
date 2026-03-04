@@ -12,7 +12,7 @@ jobs:
 
       - name: Check for merge conflict markers
         run: |
-          if grep -rn "<<<<<<\|=======\|>>>>>>>" --include="*.md" .; then
+          if grep -rn "^<<<<<<\|^=======\|^>>>>>>>" --include="*.md" .; then
             echo "ERROR: Merge conflict markers found in one or more files."
             exit 1
           fi
