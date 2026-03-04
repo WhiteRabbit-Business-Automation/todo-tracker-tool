@@ -4,7 +4,11 @@
       "Bash(crontab -l)",
       "Bash(wsl -d Ubuntu bash -c \"crontab -l 2>/dev/null || echo ''NO CRONTAB''\")",
       "Bash(wsl -d Ubuntu bash -c \"service cron status 2>&1 || systemctl status cron 2>&1\")",
-      "Bash(wsl -d Ubuntu bash -c \"cd /home/andres/WR/todo-tracker-tool && file scripts/sync.sh && cat -A scripts/sync.sh | head -3\")"
+      "Bash(wsl -d Ubuntu bash -c \"cd /home/andres/WR/todo-tracker-tool && file scripts/sync.sh && cat -A scripts/sync.sh | head -3\")",
+      "Bash(wsl -d Ubuntu bash -c \"file /home/andres/WR/todo-tracker-tool/scripts/sync.sh && cat sync.log | tail -5\")",
+      "Bash(wsl -d Ubuntu bash -c \"cd /home/andres/WR/todo-tracker-tool && git status --porcelain && date\")",
+      "Bash(wsl -d Ubuntu bash -c \"systemctl status cron --no-pager | tail -15\")",
+      "Bash(wsl -d Ubuntu bash -c \"cd /home/andres/WR/todo-tracker-tool && bash -x scripts/sync.sh 2>&1\")"
     ]
   }
 }
