@@ -1,6 +1,6 @@
 # Miguel
 
-- [ ] Test showcase #1
+- [X] Test showcase #1
 - [X] Testing verbose fix in sync, to improve logging
 - [X] Testing todo tracker tool #2, testing pulling
 - [X] Testing todo tracker tool
