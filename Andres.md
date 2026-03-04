@@ -8,3 +8,5 @@
 - [x] C104 Dietitian Group: add referral offer (after Nu Era)
 - [x] Home health: map agency workflow + software landscape (with Jamie)
 - [ ] System: document process as you go → 00.System/
+
+(IGNORE) TESTING AUTOMATIC SYNC
