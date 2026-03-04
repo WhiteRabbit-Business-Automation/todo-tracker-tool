@@ -14,7 +14,7 @@
 ### This week
 
 1. C104 Dietitian: fill in proposal prices + send to Solomon
-2. C103 HCCG: send case study to Moshe, then set up call
+2. C103 HCCG: follow up with Moshe on case study, set up call
 
 ### Ongoing
 
