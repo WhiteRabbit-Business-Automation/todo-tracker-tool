@@ -77,5 +77,10 @@ in plain language. Do not show raw log output unless asked.
 Push directly to main. Cron (running sync.sh every minute) handles all git ops.
 Conflict markers (<<<<<<) mean a manual fix is needed before next sync.
 
+## Scope — this is NOT the CRM
+This tracker owns personal next actions only. Client pipeline status and activity history
+live in the CRM (`WR-02.CRM/`). Tasks here may reference C### clients but don't track
+deal stage, contacts, or activity logs — that's CRM territory.
+
 ## Convention (not enforced)
 Each person edits their own file. Agents may edit any file when explicitly instructed.
