@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(crontab -l)",
+      "Bash(wsl -d Ubuntu bash -c \"crontab -l 2>/dev/null || echo ''NO CRONTAB''\")",
+      "Bash(wsl -d Ubuntu bash -c \"service cron status 2>&1 || systemctl status cron 2>&1\")",
+      "Bash(wsl -d Ubuntu bash -c \"cd /home/andres/WR/todo-tracker-tool && file scripts/sync.sh && cat -A scripts/sync.sh | head -3\")"
+    ]
+  }
+}
