@@ -22,7 +22,8 @@
       "Bash(wsl -d Ubuntu bash -c \"ls -la /home/andres/WR/todo-tracker-tool/scripts/sync.sh\")",
       "Bash(wsl -d Ubuntu bash -c \"chmod +x /home/andres/WR/todo-tracker-tool/scripts/sync.sh && ls -la /home/andres/WR/todo-tracker-tool/scripts/sync.sh\")",
       "Bash(wsl -d Ubuntu bash -c 'echo \"\"* * * * * /home/andres/WR/todo-tracker-tool/scripts/sync.sh\"\" | crontab -')",
-      "Bash(wsl -d Ubuntu bash -c \"sleep 70 && git -C /home/andres/WR/todo-tracker-tool log --oneline -3 && tail -3 /home/andres/WR/todo-tracker-tool/sync.log\")"
+      "Bash(wsl -d Ubuntu bash -c \"sleep 70 && git -C /home/andres/WR/todo-tracker-tool log --oneline -3 && tail -3 /home/andres/WR/todo-tracker-tool/sync.log\")",
+      "Bash(wsl -d Ubuntu bash -c \"cat /home/andres/WR/todo-tracker-tool/.gitattributes 2>/dev/null || echo ''no file''\")"
     ]
   }
 }
