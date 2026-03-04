@@ -21,7 +21,7 @@ if [ -n "$(git status --porcelain)" ]; then
   committed=true
 fi
 
-# Stage 2 — pull always, push only if we committed
+# Stage 2 — pull always, push if we committed or if there are unpushed commits
 pull_out=$(git pull --rebase origin main 2>&1)
 pull_exit=$?
 
@@ -34,7 +34,7 @@ if [ $pull_exit -ne 0 ]; then
   exit 1
 fi
 
-if [ "$committed" = true ]; then
+if [ "$committed" = true ] || [ -n "$(git log origin/main..HEAD --oneline 2>/dev/null)" ]; then
   push_out=$(git push origin main 2>&1)
   push_exit=$?
   if [ $push_exit -ne 0 ]; then
