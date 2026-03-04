@@ -1,0 +1,5 @@
+.obsidian/
+.DS_Store
+sync.log
+*.log
+Thumbs.db

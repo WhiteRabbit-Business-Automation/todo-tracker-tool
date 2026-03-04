@@ -1,0 +1,30 @@
+name: Validate Task Files
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check for merge conflict markers
+        run: |
+          if grep -rn "<<<<<<\|=======\|>>>>>>>" --include="*.md" .; then
+            echo "ERROR: Merge conflict markers found in one or more files."
+            exit 1
+          fi
+
+      - name: Verify required files exist
+        run: |
+          for file in Miguel.md Jamie.md Andres.md Backlog.md CLAUDE.md; do
+            if [ ! -f "$file" ]; then
+              echo "ERROR: Required file missing: $file"
+              exit 1
+            fi
+          done
+
+      - name: Confirm push landed on main
+        run: echo "Push validated on main at $(date)"
