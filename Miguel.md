@@ -1,5 +1,6 @@
 # Miguel
 
+- [X] Testing verbose fix in sync, to improve logging
 - [X] Testing todo tracker tool #2, testing pulling
 - [X] Testing todo tracker tool
 - [X] C103 HCCG: organize existing files into markdown
