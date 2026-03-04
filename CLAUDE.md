@@ -6,31 +6,31 @@ Each person owns one file. Push directly to main. No branches, no PRs.
 
 ## Where Tasks Live
 Tasks exist in exactly two places:
-- Person files: Miguel.md, Jamie.md, Andres.md  (checkbox tasks)
-- Backlog.md  (plain bullets, no checkboxes)
+- Person files: Miguel.md, Jamie.md, Andres.md
+- Backlog.md
 Nowhere else.
 
 ## File Structure
 - Miguel.md   — Miguel's tasks only
 - Jamie.md    — Jamie's tasks only
 - Andres.md   — Andres's tasks only
-- Backlog.md  — Unassigned team items (plain bullets, no checkboxes)
+- Backlog.md  — Unassigned team items
 - sync.log    — Local error log, not git-tracked
 
 ## Task Format (person files)
-- [ ] C### ClientName: description #tag
+- C### ClientName: description #tag
 
 Valid tags: #urgent, #blocked, #backlog
 Tags at end of line. One task per line. No sub-bullets.
 New tasks always go at the TOP of the file.
-Done tasks accumulate at the bottom as [x] — never deleted.
+Done tasks: delete the line (git history is the record).
 
 ## Backlog Format
-- Plain description  (no checkbox, no C### prefix required)
+- Plain description  (no C### prefix required)
 
 ## How to Create a Task for a Person
 PREPEND to the top of the person's file:
-  - [ ] C103 HCCG: review proposal #urgent
+  - C103 HCCG: review proposal #urgent
 
 ## How to Add an Item to Backlog
 APPEND a plain bullet to Backlog.md:
@@ -38,14 +38,14 @@ APPEND a plain bullet to Backlog.md:
 
 ## How to Move a Backlog Item to a Person
 1. Remove the bullet line from Backlog.md
-2. Prepend as a checkbox task to the top of the person's file:
-   - [ ] Description #tag
+2. Prepend as a task to the top of the person's file:
+   - Description #tag
 
 ## How to Complete a Task
-Change [ ] to [x] in the person's file. Do NOT delete or move the line.
+Delete the line from the person's file. Git history preserves it.
 
 ## How to View All Tasks
-Read each person's file. Open tasks are "- [ ]" lines; done tasks are "- [x]" lines.
+Read each person's file. All lines are open tasks.
 
 ## How to Check for Sync Problems
 Read the log file at: ~/todo-tracker-tool/sync.log
