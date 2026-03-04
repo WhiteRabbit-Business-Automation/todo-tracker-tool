@@ -8,7 +8,8 @@
       "Bash(wsl -d Ubuntu bash -c \"file /home/andres/WR/todo-tracker-tool/scripts/sync.sh && cat sync.log | tail -5\")",
       "Bash(wsl -d Ubuntu bash -c \"cd /home/andres/WR/todo-tracker-tool && git status --porcelain && date\")",
       "Bash(wsl -d Ubuntu bash -c \"systemctl status cron --no-pager | tail -15\")",
-      "Bash(wsl -d Ubuntu bash -c \"cd /home/andres/WR/todo-tracker-tool && bash -x scripts/sync.sh 2>&1\")"
+      "Bash(wsl -d Ubuntu bash -c \"cd /home/andres/WR/todo-tracker-tool && bash -x scripts/sync.sh 2>&1\")",
+      "Bash(wsl -d Ubuntu bash -c \"systemctl status cron --no-pager | grep ''CMD\\\\|session opened'' | tail -10\")"
     ]
   }
 }
