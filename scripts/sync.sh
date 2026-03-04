@@ -16,9 +16,14 @@ committed=false
 
 # Stage 1 — commit local changes if any
 if [ -n "$(git status --porcelain)" ]; then
-  git add -A
-  git commit -m "auto: $(date '+%Y-%m-%d %H:%M:%S')" > /dev/null 2>&1
-  committed=true
+  commit_out=$(git add -A && git commit -m "auto: $(date '+%Y-%m-%d %H:%M:%S')" 2>&1)
+  commit_exit=$?
+  if [ $commit_exit -eq 0 ]; then
+    log "COMMIT_OK" "local changes committed"
+    committed=true
+  else
+    log "COMMIT_FAILED" "$(echo "$commit_out" | head -1)"
+  fi
 fi
 
 # Stage 2 — pull always, push if we committed or if there are unpushed commits
@@ -32,12 +37,16 @@ if [ $pull_exit -ne 0 ]; then
     log "PULL_FAILED" "$(echo "$pull_out" | head -1)"
   fi
   exit 1
+else
+  log "PULL_OK" "in sync with origin/main"
 fi
 
 if [ "$committed" = true ] || [ -n "$(git log origin/main..HEAD --oneline 2>/dev/null)" ]; then
   push_out=$(git push origin main 2>&1)
   push_exit=$?
-  if [ $push_exit -ne 0 ]; then
+  if [ $push_exit -eq 0 ]; then
+    log "PUSH_OK" "pushed to origin/main"
+  else
     log "PUSH_FAILED" "$(echo "$push_out" | head -1)"
   fi
 fi
