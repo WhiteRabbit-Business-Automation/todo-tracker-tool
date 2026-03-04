@@ -8,7 +8,7 @@
 - [X] C103 HCCG: add referral offer to proposal
 - [X] System: Obsidian + Git MVP test — document result
 - [X] System: flag folder improvement suggestions as you work
-- [ ] System: document process (prompts, steps, decisions)
-- [ ] MD Server: fix /markdown/update/{id} endpoint (405 error) #backlog
-- [ ] Agents: WhatsApp integration research #backlog
-- [ ] Github MCP for website #backlog
+- [X] System: document process (prompts, steps, decisions)
+- [X] MD Server: fix /markdown/update/{id} endpoint (405 error) #backlog
+- [X] Agents: WhatsApp integration research #backlog
+- [X] Github MCP for website #backlog
