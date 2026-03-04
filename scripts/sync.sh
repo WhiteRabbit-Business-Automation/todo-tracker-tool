@@ -19,7 +19,8 @@ if [ -n "$(git status --porcelain)" ]; then
   commit_out=$(git add -A && git commit -m "auto: $(date '+%Y-%m-%d %H:%M:%S')" 2>&1)
   commit_exit=$?
   if [ $commit_exit -eq 0 ]; then
-    log "COMMIT_OK" "local changes committed"
+    commit_hash=$(git rev-parse --short HEAD)
+    log "COMMIT_OK" "local changes committed ($commit_hash)"
     committed=true
   else
     log "COMMIT_FAILED" "$(echo "$commit_out" | head -1)"
