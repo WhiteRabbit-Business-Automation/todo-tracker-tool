@@ -15,3 +15,8 @@
 - Phone/meeting context consolidation (Quo API, Google Meet API)
 - C101 Crown Care: build usage dashboard
 - C121 Raquel: on pause — revisit when ready
+
+- Connect to Github MCP server and reference repos in files, so that agent can pull it up when needed. Possible refrence to github deep wiki
+- Connect to or create Google chat MCP
+- Connect to Gmail MCP
+- Connect to website github, and simplify design so its easily editable by AI agent
