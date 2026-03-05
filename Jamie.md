@@ -6,8 +6,8 @@
 
 ### 3/04 Wed
 
-1. C118 Alan Real Estate: business meeting today #urgent
-2. C114 Little Pie Co: kick off Discovery & Planning (deposit paid) #urgent
+1. C118 Alan Real Estate: business meeting today
+2. C114 Little Pie Co: kick off Discovery & Planning (deposit paid)
 
 ### 3/05 Thur
 
