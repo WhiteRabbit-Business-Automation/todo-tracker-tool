@@ -4,6 +4,7 @@
 # Stage 2: pull always, then push if Stage 1 committed
 
 export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
+export GH_TOKEN="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"
 
 VAULT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 LOG="$VAULT_DIR/sync.log"
