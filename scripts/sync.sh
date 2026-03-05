@@ -3,6 +3,8 @@
 # Stage 1: commit local changes if any (before pull, to avoid overwriting open files)
 # Stage 2: pull always, then push if Stage 1 committed
 
+export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
+
 VAULT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 LOG="$VAULT_DIR/sync.log"
 
