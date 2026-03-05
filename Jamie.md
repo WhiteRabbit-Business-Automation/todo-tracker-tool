@@ -2,6 +2,8 @@
 
 <!-- Format: plain bullets, no checkboxes. Done = delete the line (git history is the record). -->
 
+- Pie Company: discovery and planning
+
 ### 3/04 Wed
 
 1. C118 Alan Real Estate: business meeting today #urgent

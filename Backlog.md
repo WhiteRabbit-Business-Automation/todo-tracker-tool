@@ -1,12 +1,5 @@
 # Backlog
 
-- Pie Company -> discovery and planning -> Jamie
-- Setup Clawbot -> read permission connected to our system and whatsApp (prefereably or other chat tool, google chat) -> miguel
-- - Look into options with clawbot
-  - Workspace CLI
-  - Host on Hertzner
-- Review MD server -> reliable ? simple ? -> Andres
-- Setup Google CLI tool and show team how to do it -> Andres
 - Automated client onboarding pipeline
 - Reusable proposal template
 - Bot that runs hourly (reads files, performs tasks)

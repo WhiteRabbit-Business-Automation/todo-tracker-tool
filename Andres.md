@@ -1,5 +1,7 @@
 # Andres
 
+- [ ] Review MD server: reliable? simple?
+- [ ] Setup Google CLI tool and show team how to do it
 - [x] System: testing this todo tracker tool
 - [x] C112 Nu Era: finish remaining work #urgent
 - [x] C112 Nu Era: share proposal process with Miguel
