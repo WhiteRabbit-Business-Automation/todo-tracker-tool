@@ -1,5 +1,8 @@
 # Backlog
 
+- Pie Company -> discovery and planning
+- Setup Clawbot -> read permission connected to our system and whatsApp (prefereably or other chat tool)
+-
 - Automated client onboarding pipeline
 - Reusable proposal template
 - Bot that runs hourly (reads files, performs tasks)
