@@ -4,19 +4,19 @@
 - [ ] Clawbot: look into options
 - [ ] Clawbot: Workspace CLI
 - [ ] Clawbot: host on Hertzner
-- [X] Test showcase #1
-- [X] Testing verbose fix in sync, to improve logging
-- [X] Testing todo tracker tool #2, testing pulling
-- [X] Testing todo tracker tool
-- [X] C103 HCCG: organize existing files into markdown
-- [X] C103 HCCG: build evidence layer
-- [X] C103 HCCG: build simulation layer
-- [X] C103 HCCG: generate 3 proposals (P1+P2 fixed-scope, P3 discovery)
-- [X] C103 HCCG: add video testimonial offer to proposal
-- [X] C103 HCCG: add referral offer to proposal
-- [X] System: Obsidian + Git MVP test — document result
-- [X] System: flag folder improvement suggestions as you work
-- [X] System: document process (prompts, steps, decisions)
-- [X] MD Server: fix /markdown/update/{id} endpoint (405 error) #backlog
-- [X] Agents: WhatsApp integration research #backlog
-- [X] Github MCP for website #backlog
+- [x] Test showcase #1
+- [x] Testing verbose fix in sync, to improve logging
+- [x] Testing todo tracker tool #2, testing pulling
+- [x] Testing todo tracker tool
+- [x] C103 HCCG: organize existing files into markdown
+- [x] C103 HCCG: build evidence layer
+- [x] C103 HCCG: build simulation layer
+- [x] C103 HCCG: generate 3 proposals (P1+P2 fixed-scope, P3 discovery)
+- [x] C103 HCCG: add video testimonial offer to proposal
+- [x] C103 HCCG: add referral offer to proposal
+- [x] System: Obsidian + Git MVP test — document result
+- [x] System: flag folder improvement suggestions as you work
+- [x] System: document process (prompts, steps, decisions)
+- [x] MD Server: fix /markdown/update/{id} endpoint (405 error) #backlog
+- [x] Agents: WhatsApp integration research #backlog
+- [x] Github MCP for website #backlog
