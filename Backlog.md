@@ -1,12 +1,12 @@
 # Backlog
 
-- Pie Company -> discovery and planning
-- Setup Clawbot -> read permission connected to our system and whatsApp (prefereably or other chat tool, google chat)
-  - Look into options with clawbot
+- Pie Company -> discovery and planning -> Jamie
+- Setup Clawbot -> read permission connected to our system and whatsApp (prefereably or other chat tool, google chat) -> miguel
+- - Look into options with clawbot
   - Workspace CLI
   - Host on Hertzner
-- Review MD server -> reliable ? simple ?
-- Setup Google CLI tool and show team how to do it
+- Review MD server -> reliable ? simple ? -> Andres
+- Setup Google CLI tool and show team how to do it -> Andres
 - Automated client onboarding pipeline
 - Reusable proposal template
 - Bot that runs hourly (reads files, performs tasks)
@@ -15,7 +15,6 @@
 - Phone/meeting context consolidation (Quo API, Google Meet API)
 - C101 Crown Care: build usage dashboard
 - C121 Raquel: on pause — revisit when ready
-
 - Connect to Github MCP server and reference repos in files, so that agent can pull it up when needed. Possible refrence to github deep wiki
 - Connect to or create Google chat MCP
 - Connect to Gmail MCP
