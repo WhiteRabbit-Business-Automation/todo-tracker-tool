@@ -1,7 +1,8 @@
 # Andres
 
-- [x] Review MD server: reliable? simple?
+- [ ] Explore how to make our MD server as a service that can be used for any bot/agent
 - [ ] Setup Google CLI tool and show team how to do it
+- [x] Review MD server: reliable? simple?
 - [x] System: testing this todo tracker tool
 - [x] C112 Nu Era: finish remaining work #urgent
 - [x] C112 Nu Era: share proposal process with Miguel
