@@ -7,7 +7,17 @@
 1. Review and understand Dietian group Insurance payment matcher
 2. Review home health care agencies
 
-**Monday — LinkedIn Outreach (HHA niche test)**
+**Monday — Warm pipeline (close what's open)**
+
+1. Send Dietitian Group proposal
+2. Send HCCG proposal
+3. Nudge Nu Era (Sam) on WhatsApp
+
+**Tuesday**
+
+Day off
+
+**Wednesday — LinkedIn Outreach (HHA niche test)**
 
 Full plan: [LinkedIn_Outreach_Plan.md](LinkedIn_Outreach_Plan.md)
 
@@ -15,9 +25,3 @@ Full plan: [LinkedIn_Outreach_Plan.md](LinkedIn_Outreach_Plan.md)
 2. Send 25 connection requests (no message)
 3. InMail the 3-5 best fits with the free leak scan offer
 4. As connections accept over the week, DM them the offer
-
-**Tuesday**
-
-Day off
-
-**Wednesday**
