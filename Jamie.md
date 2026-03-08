@@ -4,11 +4,8 @@
 
 Full week plan: [Week_Mar9_Plan.md](Week_Mar9_Plan.md)
 
-Weekly target: 100 touches, 15+ conversations, 3+ real opportunities.
-
-- Monday AM: send Dietitian proposal, HCCG proposal, nudge Nu Era. Ask for referrals.
-- Monday PM: warm outreach blitz — text/message 15-20 people you know (20 touches)
+- Monday: HHA niche outreach — 25 LinkedIn connections + 3-5 InMails
 - Tuesday: day off
-- Wednesday: LinkedIn 25 connections + 15 other touches (comments, groups, post) = 40 touches
-- Thursday: follow up everything + 15 more touches (25 total)
-- Friday: 15 more touches, count conversations, update CRM, prep Pie Co kickoff
+- Wednesday: send Dietitian + HCCG proposals, nudge Nu Era, text 10 people you know
+- Thursday: general outreach — 25 new LinkedIn prospects (broad), text 5 more people
+- Friday: 15 more touches, follow up everything, count conversations, prep Pie Co kickoff
