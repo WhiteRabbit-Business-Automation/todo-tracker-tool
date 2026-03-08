@@ -9,5 +9,11 @@
 
 **Monday:**
 
-1. Reach out to 10 home healthcare agencies / people asking them for info.
-2. Reach out to 10 home healthcare agencies asking them if they are interested in the tracker.
+1. Reach out to 10 home healthcare agencies / people asking them for info
+2. Reach out to 10 home healthcare agencies asking them if they are interested in the tracker
+
+**Tuesday**
+
+Day off
+
+**Wednesday**
