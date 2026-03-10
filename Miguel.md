@@ -1,22 +1,3 @@
 # Miguel
 
-- [ ] Setup Clawbot: read permission connected to our system and WhatsApp (or other chat tool, Google Chat)
-- [ ] Clawbot: look into options
-- [ ] Clawbot: Workspace CLI
-- [ ] Clawbot: host on Hertzner
-- [x] Test showcase #1
-- [x] Testing verbose fix in sync, to improve logging
-- [x] Testing todo tracker tool #2, testing pulling
-- [x] Testing todo tracker tool
-- [x] C103 HCCG: organize existing files into markdown
-- [x] C103 HCCG: build evidence layer
-- [x] C103 HCCG: build simulation layer
-- [x] C103 HCCG: generate 3 proposals (P1+P2 fixed-scope, P3 discovery)
-- [x] C103 HCCG: add video testimonial offer to proposal
-- [x] C103 HCCG: add referral offer to proposal
-- [x] System: Obsidian + Git MVP test — document result
-- [x] System: flag folder improvement suggestions as you work
-- [x] System: document process (prompts, steps, decisions)
-- [x] MD Server: fix /markdown/update/{id} endpoint (405 error) #backlog
-- [x] Agents: WhatsApp integration research #backlog
-- [x] Github MCP for website #backlog
+- Clawbot: Workspace CLI
