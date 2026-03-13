@@ -1,7 +1,5 @@
 # Miguel
 
-- test: verify new commits use work account credentials
-
 - ClawBot: fix VPS security (restrict allowed origins, lock down control UI) #urgent
 - ClawBot: fix Google Spaces integration (DM works, Spaces don't)
 - ClawBot: set up periodic rclone sync (Drive → VM) to keep context files fresh
