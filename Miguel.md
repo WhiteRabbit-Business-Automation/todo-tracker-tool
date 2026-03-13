@@ -1,5 +1,6 @@
 # Miguel
 
+- C114 Little Pie Co: install VirtualBox with Windows image (Access DB migration prep)
 - ClawBot: fix VPS security (restrict allowed origins, lock down control UI) #urgent
 - ClawBot: fix Google Spaces integration (DM works, Spaces don't)
 - ClawBot: set up periodic rclone sync (Drive → VM) to keep context files fresh
