@@ -1,5 +1,8 @@
 # Miguel
 
+- C114 Little Pie Co: internal research — document Sortly and Toast POS current usage before stakeholder calls
+- C114 Little Pie Co: prep questions for Raul call (Sortly + daily pick list process)
+- C114 Little Pie Co: prep questions for Danny call (Toast day-to-day usage)
 - C114 Little Pie Co: install VirtualBox with Windows image (Access DB migration prep)
 - ClawBot: fix VPS security (restrict allowed origins, lock down control UI) #urgent
 - ClawBot: fix Google Spaces integration (DM works, Spaces don't)
