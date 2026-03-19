@@ -1,8 +1,6 @@
 # Miguel
 
-- C114 Little Pie Co: internal research — document Sortly and Toast POS current usage before stakeholder calls
-- C114 Little Pie Co: review Jamie's prep docs before Raul + Danny calls (12.WR_meetings/)
-- C114 Little Pie Co: install VirtualBox with Windows image (Access DB migration prep)
+- C114 Little Pie Co: internal research — document Sortly current usage before stakeholder calls
 - ClawBot: fix VPS security (restrict allowed origins, lock down control UI) #urgent
 - ClawBot: fix Google Spaces integration (DM works, Spaces don't)
 - ClawBot: set up periodic rclone sync (Drive → VM) to keep context files fresh
