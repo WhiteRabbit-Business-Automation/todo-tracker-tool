@@ -5,9 +5,11 @@ New rows go at the **top** of the table (below the header).
 
 | Task | Description | Assignee | Start | End | Hours | Status |
 |------|-------------|----------|-------|-----|-------|--------|
+| DietitianGrp | provider-invoice-automation — include CCO data in generated files | Andres | 2026-03-26 | — | — | In Progress |
+| CNA | Student Tracker (small project) | Andres | 2026-03-25 | 2026-03-26 | 5 | Done |
 | ClawBot | fix Google Chat communication — getting 401 when trying to DM from Google Chat | Miguel | 2026-03-26 | — | — | In Progress |
-| ClawBot | test openclaw | Andres | 2026-03-26 | — | — | In Progress |
-| Internal | Explore how to make our MD server as a service that can be used for any bot/agent | Andres | 2026-03-26 | — | — | In Progress |
+| ClawBot | test openclaw | Andres | 2026-03-26 | 2026-03-26 | — | Done |
+| Internal | Explore how to make our MD server as a service that can be used for any bot/agent | Andres | 2026-03-26 | 2026-03-26 | — | Done |
 | Internal | Setup Google CLI tool and show team how to do it | Andres | 2026-03-26 | — | — | In Progress |
 | Outreach | Monday: HHA niche outreach — 25 LinkedIn connections + 3-5 InMails | Jamie | 2026-03-26 | — | — | In Progress |
 | Outreach | Tuesday: day off | Jamie | 2026-03-26 | — | — | In Progress |

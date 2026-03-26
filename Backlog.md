@@ -12,3 +12,5 @@
 - Connect to or create Google chat MCP
 - Connect to Gmail MCP
 - Connect to website github, and simplify design so its easily editable by AI agent
+- CNA: second small project — open positions file
+- CNA: third possible project — email automation
