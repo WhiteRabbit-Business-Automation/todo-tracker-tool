@@ -5,7 +5,8 @@ New rows go at the **top** of the table (below the header).
 
 | Task           | Description                                                                               | Assignee | Start      | End        | Hours | Status      |
 | -------------- | ----------------------------------------------------------------------------------------- | -------- | ---------- | ---------- | ----- | ----------- |
-| DietitianGroup | provider-invoice-automation — include CCO data in generated files                         | Andres   | 2026-03-26 | —          | —     | In Progress |
+| DietitianGroup | provider-invoice-automation stage 2 — total file                                         | Andres   | 2026-03-27 | —          | —     | In Progress |
+| DietitianGroup | provider-invoice-automation — include CCO data in generated files                         | Andres   | 2026-03-26 | 2026-03-27 | —     | Done        |
 | CNA            | Student Tracker (small project)                                                           | Andres   | 2026-03-25 | 2026-03-26 | 5     | Done        |
 | ClawBot        | fix Google Chat communication — getting 401 when trying to DM from Google Chat            | Miguel   | 2026-03-26 | 2026-03-27 | 4.0   | Done        |
 | ClawBot        | test openclaw                                                                             | Andres   | 2026-03-26 | 2026-03-26 | —     | Done        |
