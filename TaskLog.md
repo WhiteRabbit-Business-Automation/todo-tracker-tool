@@ -5,6 +5,7 @@ New rows go at the **top** of the table (below the header).
 
 | Task           | Description                                                                               | Assignee | Start      | End        | Hours | Status      |
 | -------------- | ----------------------------------------------------------------------------------------- | -------- | ---------- | ---------- | ----- | ----------- |
+| CNA            | Open positions file (small project)                                                       | Andres   | 2026-03-27 | 2026-03-27 | 1     | Done        |
 | DietitianGroup | provider-invoice-automation stage 2 — total file                                         | Andres   | 2026-03-27 | —          | —     | In Progress |
 | DietitianGroup | provider-invoice-automation — include CCO data in generated files                         | Andres   | 2026-03-26 | 2026-03-27 | —     | Done        |
 | CNA            | Student Tracker (small project)                                                           | Andres   | 2026-03-25 | 2026-03-26 | 5     | Done        |
