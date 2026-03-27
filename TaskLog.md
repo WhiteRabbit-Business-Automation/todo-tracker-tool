@@ -7,7 +7,7 @@ New rows go at the **top** of the table (below the header).
 | -------------- | ----------------------------------------------------------------------------------------- | -------- | ---------- | ---------- | ----- | ----------- |
 | DietitianGroup | provider-invoice-automation — include CCO data in generated files                         | Andres   | 2026-03-26 | —          | —     | In Progress |
 | CNA            | Student Tracker (small project)                                                           | Andres   | 2026-03-25 | 2026-03-26 | 5     | Done        |
-| ClawBot        | fix Google Chat communication — getting 401 when trying to DM from Google Chat            | Miguel   | 2026-03-26 | —          | —     | In Progress |
+| ClawBot        | fix Google Chat communication — getting 401 when trying to DM from Google Chat            | Miguel   | 2026-03-26 | 2026-03-27 | 4.0   | Done        |
 | ClawBot        | test openclaw                                                                             | Andres   | 2026-03-26 | 2026-03-26 | —     | Done        |
 | Internal       | Explore how to make our MD server as a service that can be used for any bot/agent         | Andres   | 2026-03-26 | 2026-03-26 | —     | Done        |
 | Internal       | Setup Google CLI tool and show team how to do it                                          | Andres   | 2026-03-26 | —          | —     | In Progress |
@@ -18,7 +18,7 @@ New rows go at the **top** of the table (below the header).
 | Outreach       | Friday: 15 more touches, follow up everything, count conversations, prep Pie Co kickoff   | Jamie    | 2026-03-26 | —          | —     | In Progress |
 | C114           | Little Pie Co: internal research — document Sortly current usage before stakeholder calls | Miguel   | 2026-03-26 | 2026-03-26 | —     | Done        |
 | ClawBot        | fix VPS security (restrict allowed origins, lock down control UI)                         | Miguel   | 2026-03-26 | 2026-03-26 | —     | Done        |
-| ClawBot        | fix Google Spaces integration (DM works, Spaces don't)                                    | Miguel   | 2026-03-26 | —          | —     | In Progress |
+| ClawBot        | fix Google Spaces integration (DM works, Spaces don't)                                    | Miguel   | 2026-03-26 | 2026-03-27 | 3.0   | Done        |
 | ClawBot        | set up periodic rclone sync (Drive → VM) to keep context files fresh                      | Miguel   | 2026-03-26 | —          | —     | In Progress |
 | ClawBot        | configure rclone upload (VM → Drive) for agent-generated changes                          | Miguel   | 2026-03-26 | —          | —     | In Progress |
 | ClawBot        | replace ngrok with permanent webhook URL for Google Chat                                  | Miguel   | 2026-03-26 | —          | —     | In Progress |
