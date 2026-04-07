@@ -5,8 +5,11 @@ New rows go at the **top** of the table (below the header).
 
 | Task           | Description                                                                               | Assignee | Start      | End        | Hours | Status      |
 | -------------- | ----------------------------------------------------------------------------------------- | -------- | ---------- | ---------- | ----- | ----------- |
+| Internal       | learn proper Claude usage and capabilities                                                | Andres   | 2026-04-07 | —          | —     | In Progress |
+| ClawBot        | fix Google Chat integration — investigate root cause, explore alternatives if too complex | Andres   | 2026-04-07 | —          | —     | In Progress |
+| Internal       | research and configure automated emails in Microsoft — test with OpenClaw ahead of Shelley's request | Andres | 2026-04-07 | — | — | In Progress |
+| DietitianGroup | provider-invoice-automation stage 2 — total file                                         | Andres   | 2026-03-27 | 2026-04-01 | —     | Done        |
 | CNA            | Open positions file (small project)                                                       | Andres   | 2026-03-27 | 2026-03-27 | 1     | Done        |
-| DietitianGroup | provider-invoice-automation stage 2 — total file                                         | Andres   | 2026-03-27 | —          | —     | In Progress |
 | DietitianGroup | provider-invoice-automation — include CCO data in generated files                         | Andres   | 2026-03-26 | 2026-03-27 | —     | Done        |
 | CNA            | Student Tracker (small project)                                                           | Andres   | 2026-03-25 | 2026-03-26 | 5     | Done        |
 | ClawBot        | fix Google Chat communication — getting 401 when trying to DM from Google Chat            | Miguel   | 2026-03-26 | 2026-03-27 | 4.0   | Done        |
